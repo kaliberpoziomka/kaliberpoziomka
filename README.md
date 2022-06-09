@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://docs.soliditylang.org/en/v0.8.13/#" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.13/_static/logo.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg" alt="hardhat" width="100" height="40"/> </a>
 <a href="https://www.cairo-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.cairo-lang.org/docs/_static/logo.png" alt="cairo" width="40" height="40"/> </a>
 <h4 align="left">Data:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
